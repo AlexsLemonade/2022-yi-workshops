@@ -12,11 +12,11 @@ The <b><a href="https://www.ccdatalab.org/" title="Alex's Lemonade Stand Foundat
 The Childhood Cancer Data Lab is an initiative of <b><a href="https://www.alexslemonade.org/" title="Alex's Lemonade Stand Foundation">Alex's Lemonade Stand Foundation</a></b>.
 </p>
 
-This pilot workshop will introduce the R statististial programming language, including the [`tidyverse`](https://www.tidyverse.org/) suite of packages for data science and visualization, R notebooks, and concepts in reproducible research practices.
+This workshop will introduce the R statististial programming language, including the [`tidyverse`](https://www.tidyverse.org/) suite of packages for data science and visualization, R notebooks, and concepts in reproducible research practices.
 
 Please also review our [Code of Conduct](code-of-conduct.md).
 
-You will also want to review the [Participant Information](participant_information.md) page for details about the workshop location and other logistics.
+You will also want to review the [Participant Information](participant-information.md) page for details about the workshop location and other logistics.
 
 
 <!--
