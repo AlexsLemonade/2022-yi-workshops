@@ -24,7 +24,7 @@ We will provide resources for learning R to help you prepare and to refer back t
 * We will show you how to navigate the RStudio interface.
 * We will cover working with data using both base R and tools from the [`tidyverse`](https://www.tidyverse.org/).
 * We will introduce you to visualizing data with [`ggplot2`](https://ggplot2.tidyverse.org/).
-* We will demonstarte using [RMarkdown notebooks](https://rmarkdown.rstudio.com/) for reproducible analysis.
+* We will demonstrate using [RMarkdown notebooks](https://rmarkdown.rstudio.com/) for reproducible analysis.
 
 # What you will not learn:
 
