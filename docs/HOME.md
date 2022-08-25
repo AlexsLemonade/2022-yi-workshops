@@ -30,7 +30,7 @@ We will provide resources for learning R to help you prepare and to refer back t
 
 * We won't be able to cover all of R! This is a lifelong learning process. We're still learning too!
 * We won't address the specifics of analyzing "omics" data, e.g., RNA-seq analysis pipelines.
-* We won't discuss the use of any Bioconductor packages. This course is only base R and `tidyverse`.
+* We won't explicitly cover the use of any Bioconductor packages. This course is only base R and `tidyverse`.
 * We won't be covering other related topics in computing like UNIX or version control.
 
 Please also review our [Code of Conduct](code-of-conduct.md).
