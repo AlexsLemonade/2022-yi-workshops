@@ -12,7 +12,7 @@ The <b><a href="https://www.ccdatalab.org/" title="Alex's Lemonade Stand Foundat
 The Childhood Cancer Data Lab is an initiative of <b><a href="https://www.alexslemonade.org/" title="Alex's Lemonade Stand Foundation">Alex's Lemonade Stand Foundation</a></b>.
 </p>
 
-You are here because you will be attending one of the following workshops: [Introduction to R](./intro_R/index.md) or [Reproducible Research Practices](./rrp/index.md).
+You are here because you will be attending one of the following workshops: [Introduction to R](./intro_R) or [Reproducible Research Practices](./rrp).
 
 Please also review our [Code of Conduct](code-of-conduct.md), as well as the [Participant Information](participant-information.md) page for details about workshop locations and other logistics.
 Logistical information specific that is specific to a given workshop is available under each workshop's page.
