@@ -1,4 +1,4 @@
-title: Data Lab Introduction to R Workshop
+title: YI 2022 Workshops
 author: Childhood Cancer Data Lab
 email: training@ccdatalab.org
 twitter_username: CancerDataLab
@@ -10,7 +10,9 @@ header_home:
   HOME.md
 header_pages:
   - participant-information.md
-  - workshop-schedule.md
+  - reproducibility-resources.md
+  - intro_r/index.md
+  - rrp/index.md
 
 
 

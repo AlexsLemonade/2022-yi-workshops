@@ -1,5 +1,5 @@
 ---
-title: Introduction to R Workshop
+title: YI 2022 Workshops
 nav_title: Home
 permalink: /
 ---
@@ -12,9 +12,15 @@ The <b><a href="https://www.ccdatalab.org/" title="Alex's Lemonade Stand Foundat
 The Childhood Cancer Data Lab is an initiative of <b><a href="https://www.alexslemonade.org/" title="Alex's Lemonade Stand Foundation">Alex's Lemonade Stand Foundation</a></b>.
 </p>
 
+You are here because you will be attending one of the following workshops: [Introduction to R](./intro_R/index.md) or [Reproducible Research Practices](./rrp/index.md).
+
+Please also review our [Code of Conduct](code-of-conduct.md), as well as the [Participant Information](participant-information.md) page for details about workshop locations and other logistics.
+Logistical information specific that is specific to a given workshop is available under each workshop's page.
+
+
 This workshop will introduce the R statististial programming language, including the [`tidyverse`](https://www.tidyverse.org/) suite of packages for data science and visualization, R notebooks, and concepts in reproducible research practices.
 
-**We do not expect attendees to have programming experience.** 
+**We do not expect attendees to have programming experience.**
 The material is designed to help attendees get up and running with software used in this domain.
 We will provide resources for learning R to help you prepare and to refer back to as you continue your R journey!
 
@@ -33,9 +39,6 @@ We will provide resources for learning R to help you prepare and to refer back t
 * We won't explicitly cover the use of any Bioconductor packages. This course is only base R and `tidyverse`.
 * We won't be covering other related topics in computing like UNIX or version control.
 
-Please also review our [Code of Conduct](code-of-conduct.md).
-
-You will also want to review the [Participant Information](participant-information.md) page for details about the workshop location and other logistics.
 
 
 <!--
