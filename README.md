@@ -1,3 +1,4 @@
-# "Introduction to R" training materials
+# Workshops at the 2022 Young Investigator's Summit
 
-Repository for a full-day "Introduction to R" training.
+- Introduction to R materials are adapted from [here](https://github.com/AlexsLemonade/training-modules/tree/master/intro-to-R-tidyverse).
+- Reproducible Research Practices are adapted from [here](https://github.com/AlexsLemonade/reproducible-research/)
