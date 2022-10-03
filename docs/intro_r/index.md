@@ -1,12 +1,11 @@
 ---
 title: Introduction to R
-nav_title: Introduction to R
-permalink: /intro_r
+nav_title: Intro to R
 ---
 
-This workshop will introduce the R statististial programming language, including the [`tidyverse`](https://www.tidyverse.org/) suite of packages for data science and visualization, R notebooks, and concepts in reproducible research practices.
+This workshop will introduce the R statistical programming language, including the [`tidyverse`](https://www.tidyverse.org/) suite of packages for data science and visualization, R notebooks, and concepts in reproducible research practices.
 
-**See the workshop schedule [here](./schedule.md).**
+**See the [workshop schedule](schedule.md) for more information.**
 
 We do not expect attendees to have programming experience.
 The material is designed to help attendees get up and running with software used in this domain.

@@ -80,7 +80,7 @@ These outrageous times will drop quickly, and the whole process will _really_ ta
 
 ## R and RStudio 
 
-This workshop does not require a specific R or RStudio version for this workshop.
+This workshop does not require a specific R or RStudio version.
 If you already have R and RStudio installed, you can skip this section!
 
 ### Installing R

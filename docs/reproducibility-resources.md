@@ -4,7 +4,7 @@ nav_title: Resources
 ---
 
 This list provides some links to resources on reproducibility topics that may be useful as you develop you reproducible research skills and practices.
-In addition, you can also see [here](https://www.ccdatalab.org/research-resources#r-programming) for a set of resources that may be useful for starting out with R programming.
+In addition, we have curated [a set of resources on our website](https://www.ccdatalab.org/research-resources#r-programming) that may be useful for starting out with R programming.
 
 Please note, this is not an exhaustive list.
 It includes multiple types of resources for varying levels of experience, so we would not necessarily recommend every resource here for everyone.
