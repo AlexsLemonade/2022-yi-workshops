@@ -122,4 +122,4 @@ You can log out by clicking the "Sign Out" button in your session page:
 
 <img src = "setup-screenshots/rstudio-signout.png" width = "300">
 
-If this problem persists, please contact one of our Data Lab staff for assistance.
+If this problem persists, please contact one of the Data Lab staff for assistance.
