@@ -61,7 +61,7 @@ If you have no sessions running, use the `+ New Session` button.
 
 You can stop your current R session with the orange circular on/off button in the upper right corner:
 
-<img src = "setup-screenshots/rstudio-session-buttons.png" width = "500">
+<img src = "setup-screenshots/rstudio-session-buttons.png" width = "300">
 <br>
 <br>
 
