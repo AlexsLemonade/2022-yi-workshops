@@ -56,8 +56,6 @@ If you forget your password at any time, Slack one of the Data Lab team members 
 
 ## Stopping/Starting RStudio sessions
 
-Click on a session in the list to return to it.
-If you have no sessions running, use the `+ New Session` button.
 
 You can stop your current R session with the orange circular on/off button in the upper right corner:
 
