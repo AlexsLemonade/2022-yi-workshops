@@ -13,6 +13,8 @@ Unless otherwise stated, topics are linked to a Google Slides document with the 
 | T 10/18 | 03:00 - 04:30 pm | Joint Workshop Session <br> [Welcome!](https://docs.google.com/presentation/d/1ZN_L0fpLov692rvhACwW3wGCaBgGJTog0pBpnCI1jy4/edit?usp=sharing) <br> [Why does reproducibility matter?](https://docs.google.com/presentation/d/1DAn9GuSIN4kTmC1zNM1QHYJ1pZ7Hx7nkFKYUd-KCca8/edit?usp=sharing) <br> [Project organization](https://docs.google.com/presentation/d/1W4y_ZEhwsZmGt9kvV6lubKj925lSBeCbiHJCXzE27oc/edit?usp=sharing)| TBD |
 | T 10/18 | 04:30 - 04:45 pm | Break | TBD |
 | T 10/18 | 04:45 - 06:00 pm | [Introduction to R and RStudio Server](https://docs.google.com/presentation/d/1JAcmjo0v_3oeQnY-3KPcU1ZmGaxJ4iSdn-sqPLL77M0/edit?usp=sharing) <br> Introduction to base R | TBD |
+| T 10/18 | 07:15 pm | Meet in the hotel lobby (if attending dinner) | Marriott Milwaukee Downtown |
+| T 10/18 | 07:30 pm | Optional dinner at Buckley's Restaurant & Bar | 801 N. Cass Street |
 | W 10/19 | 09:00 - 09:15 am | Check-in and breakfast | TBD |
 | W 10/19 | 09:15 - 10:30 am | Introduction to base R, continued <br> [Completed notebook](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/2022-yi-intro-r/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) | TBD |
 | W 10/19 | 10:30 - 10:45 am | Coffee break | TBD |

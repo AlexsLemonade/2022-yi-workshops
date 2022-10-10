@@ -13,6 +13,8 @@ Each topic is linked to a Google Slides document with the content we plan to pre
 | T 10/18 | 03:00 - 04:30 pm | Joint Workshop Session <br> [Welcome!](https://docs.google.com/presentation/d/1ZN_L0fpLov692rvhACwW3wGCaBgGJTog0pBpnCI1jy4/edit?usp=sharing) <br> [Why does reproducibility matter?](https://docs.google.com/presentation/d/1DAn9GuSIN4kTmC1zNM1QHYJ1pZ7Hx7nkFKYUd-KCca8/edit?usp=sharing) <br> [Project organization](https://docs.google.com/presentation/d/1W4y_ZEhwsZmGt9kvV6lubKj925lSBeCbiHJCXzE27oc/edit?usp=sharing) | TBD |
 | T 10/18 | 04:30 - 04:45 pm | Break | TBD |
 | T 10/18 | 04:45 - 06:00 pm | [Introduction to UNIX](https://docs.google.com/presentation/d/1Roz7DDAJyI89sJID5JjfTYtta0ZlD6v4DS_oRDSzNOw/edit?usp=sharing) <br> [Introduction to `git`: Forking and cloning](https://docs.google.com/presentation/d/1z9K2txXQDptPhwu1kbx2bPyw0evKVs_30MtSwX9H_gY/edit?usp=sharing) | TBD |
+| T 10/18 | 07:15 pm | Meet in the hotel lobby (if attending dinner) | Marriott Milwaukee Downtown |
+| T 10/18 | 07:30 pm | Optional dinner at Buckley's Restaurant & Bar | 801 N. Cass Street |
 | W 10/19 | 09:00 - 09:15 am | Check-in and breakfast | TBD |
 | W 10/19 | 09:15 - 10:00 am | [Shell scripting](https://docs.google.com/presentation/d/1iX4876ymjGVRoaZVHClZFk9CguEqjGR-2QROjoDGwg0/edit?usp=sharing)  | TBD |
 | W 10/19 | 10:00 - 10:45 am | [The `git` stage-commit-push workflow](https://docs.google.com/presentation/d/1KhqkW0iX8FCjoxtxAQzt7qnJYwE_TRmi-Jk-ahcMZ3w/edit?usp=sharing) | TBD |
