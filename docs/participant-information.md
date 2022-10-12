@@ -30,6 +30,6 @@ Sandwiches will be available in the same common area.
 
 # Contact Us
 
-If you have any questions, you can reach us on Slack in the `#2022-yi-workshops channel` or via email at `training@ccdatalab.org`.
+If you have any questions, you can reach us on Slack in the `#2022-yi-workshops` channel or via email at `training@ccdatalab.org`.
 On Monday 10/17 and Tuesday 10/18, the Data Lab will have a booth at the Young Investigator Summit.
 If you have any questions about the workshops, or just want to say hello, please visit us!
