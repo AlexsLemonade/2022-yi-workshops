@@ -16,14 +16,14 @@ If you are feeling sick, please do not attend the workshop.
 
 # Food and beverage
 
-We will provide coffee, snacks, and beverages throughout the day on Tuesday, 10/18 and Wednesday 10/19.
+We will provide coffee, snacks, and beverages throughout the day on Tuesday 10/18 and Wednesday 10/19.
 We will take a 15 minute coffee break each day.
 
 On **Tuesday 10/18**, we will host **dinner at 7:30pm at Buckley's Restaurant & Bar** located at 801 N. Cass St, Milwaukee, WI 53202. There will be time to return to the hotel before dinner.
 The restaurant is 0.5 miles from Marriott Milwaukee Downtown, which is approximately a 10 minute walk. The Data Lab team invites those attending to meet us in hotel lobby at 7:15pm to walk to dinner together.
 Please note, this is an indoor dinner reservation. 
 
-On **Wednesday, 10/19**, we will provide a continental breakfast, which will be available beginning at **8:45am**. 
+On **Wednesday 10/19**, we will provide a continental breakfast, which will be available beginning at **8:45am**. 
 It will be served in a common area right near rooms 2B and 2C. 
 In the afternoon, we will break for lunch. 
 Sandwiches will be available in the same common area.
